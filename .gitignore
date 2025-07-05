@@ -1,0 +1,6 @@
+# .gitignore 内容
+/public/
+/resources/
+/node_modules/
+*.tmp
+.DS_Store
